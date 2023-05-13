@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hw2.4 Store/1.0.0": {
+        "runtime": {
+          "Hw2.4 Store.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hw2.4 Store/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
